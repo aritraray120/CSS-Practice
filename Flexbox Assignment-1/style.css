@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.navbar {
+
+  /* height: 100px; */
+
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+li {
+  list-style-type: none;
+  color: white;
+  display: inline;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}

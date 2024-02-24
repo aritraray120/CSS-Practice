@@ -1,0 +1,88 @@
+* {
+
+  margin: 0;
+  padding: 0;
+}
+
+/* Amazon Header */
+header {
+  height: 60px;
+  background-color: #0f1111;
+  margin-bottom: 20px;
+}
+
+.brand-logo {
+  color: orange;
+  font-size: 25px;
+  padding-right: 200px;
+  text-decoration: none;
+}
+
+.navigation-link { 
+  color: white;
+  text-decoration: none;
+  padding-right: 200px;
+}
+
+.search-button {
+  background-color: orange;
+  color: white;
+}
+
+/* Content Area */
+
+.content-area {
+
+
+  height: 900px;
+  background-color: aqua;
+
+
+}
+
+.box-1 {
+
+  height: 100px;
+  width: 100px;
+  background-color: lightcoral;
+  border: 1px solid black;
+  display: inline-block;
+  margin: auto;
+
+}
+
+.box-2 {
+  height: 100px;
+  width: 100px;
+  background-color: lightsalmon;
+  border: 1px solid black;
+  display: inline-block;
+  margin: auto;
+
+}
+
+.box-3 {
+
+  height: 100px;
+  width: 100px;
+  background-color: lightslategray;
+  border: 1px solid black;
+  display: inline-block;
+  margin: auto;
+
+}
+
+
+
+
+/* Footer */
+
+footer {
+  
+  background-color: #0f1111;
+  text-align: center;
+}
+
+p {
+  color: white;
+}

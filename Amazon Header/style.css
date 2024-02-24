@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  height: 60px;
+  background-color: #0f1111;
+}
+
+.brand-logo {
+  color: orange;
+  font-size: 25px;
+  padding-right: 200px;
+  text-decoration: none;
+}
+
+.navigation-link { 
+  color: white;
+  text-decoration: none;
+  padding-right: 200px;
+}
+
+.search-button {
+  background-color: orange;
+  color: white;
+}
